@@ -1,0 +1,40 @@
+
+Modul 1:
+
+
+Network Types -- Explain the concept of a network.
+Data Transmission -- Describe network data.
+Bandwidth and Throughput -- Explain the network transmission speed and capacity.
+Clients and Servers -- Explain the roles of clients and servers in a network.
+Network Components -- Explain the roles of network infrastructure devices.
+
+
+ITC: Information Technology and Cybersecurity
+SOHO : small office/home office
+
+Network Bileşenleri
+
+Host Roles 
+
+Host: Oturum hakkı kazanmış, ağda tanımlanmış, uç cihaz (end device, end point or nodes).
+
+Client: İstemcidir, talep eder. 
+Server: clientın talebine cevap verir, sunar  
+-> Email, web and file server en wok kullanılan örnekleridir.
+! Ayrıca bir cihaz hem client hem server olabilir,ilgili program(yazılımla).
+
+! Ağda bağlı olan tüm cihazlar network communications'ı paylaşırlar.
+
+
+Peer to Peer (P2P) Communications
+
+Küçük işletme ve evlerde ağdaki cihazlar hem server hem client olarak çalışabilirler.
+
+Kurulum kolaylığı, az karmaşık olması , düşük maliyet ve basit görevler için kullanımı(dosya transferi ve printerlarla paylaşmak gibi) avantajlıdır. 
+Lakin merkezi yönetici olmaması, güvenlik açığı oluşturulabilmesi, ölçeklenememesi ve düşük performans dezavantajlarına yol açar.
+
+Network Types:
+
+Local Networks  
+-> SOHO
+-> Universities Network
